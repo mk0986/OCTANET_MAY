@@ -1,5 +1,6 @@
 
-# Landing Page Using HTML and CSS ...!!!
+# Landing Page and To-do List Using HTML and CSS ...!!!
 
 In my intern journey with Octanet Services Pvt Ltd. this is my task 1 , in which I am trying to make a Landing Page theme based on Halloween...
+and in my task 2, I am trying to make a simple To-do List based on Daily routine....
 
